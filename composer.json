@@ -15,7 +15,7 @@
         "annotatecms/installer": "@dev"
     },
     "extra": {
-        "extension-name" : "themes",
+        "extension-name" : "events",
         "extension-class" : "Kdyby\\Events\\DI\\EventsExtension"
     }
 }
