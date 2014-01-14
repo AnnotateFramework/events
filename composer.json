@@ -1,0 +1,21 @@
+{
+    "name": "annotatecms/events",
+    "type": "annotatecms-extension",
+    "description": "Simple wrapper for kdyby/events library to be auto-registered by AnnotateCms",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michal Vyšinský",
+            "email": "vysinsky@live.com"
+        }
+    ],
+    "require" : {
+        "kdyby/events": "@dev",
+        "annotatecms/installer": "@dev"
+    },
+    "extra": {
+        "extension-name" : "themes",
+        "extension-class" : "Kdyby\\Events\\DI\\EventsExtension"
+    }
+}
