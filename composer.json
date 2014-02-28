@@ -10,12 +10,12 @@
             "email": "vysinsky@live.com"
         }
     ],
-    "require" : {
+    "require": {
         "kdyby/events": "@dev",
         "annotatecms/installer": "@dev"
     },
     "extra": {
-        "extension-name" : "events",
-        "extension-class" : "Kdyby\\Events\\DI\\EventsExtension"
+        "extension-name": "events",
+        "extension-class": "Kdyby\\Events\\DI\\EventsExtension"
     }
 }
