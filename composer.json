@@ -11,7 +11,6 @@
         }
     ],
     "require": {
-        "nette/nette": "v2.1.2",
         "kdyby/events": "v2.0.2",
         "annotatecms/extensions-installer": "@dev"
     },
