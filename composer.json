@@ -2,7 +2,6 @@
     "name": "annotatecms/events",
     "type": "annotatecms-extension",
     "description": "Simple wrapper for kdyby/events library to be auto-registered by AnnotateCms",
-    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
