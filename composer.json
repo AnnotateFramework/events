@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "kdyby/events": "v2.0.2",
-        "annotatecms/extensions-installer": "@alpha"
+        "kdyby/events": "@dev",
+        "annotatecms/extensions-installer": "@dev"
     },
     "extra": {
         "extension-name": "events",
