@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "kdyby/events": "@dev",
+        "kdyby/events": "~2.2.0",
         "annotatecms/extensions-installer": "@dev"
     },
     "extra": {
