@@ -11,7 +11,7 @@
   ],
   "require": {
     "kdyby/events": "~2.2.0",
-    "annotate/extensions-installer": "@dev"
+    "annotate/extensions-installer": "~2.0"
   },
   "extra": {
     "extension-name": "events",
